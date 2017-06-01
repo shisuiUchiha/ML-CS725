@@ -1,1 +1,3 @@
-# ML-CS725
+# assignment-1
+
+Machine Learning first assignment CS725
